@@ -18,7 +18,7 @@ class Fibbonaci {
             return memo.get(val);
         }
         int res = fib(val - 1) + fib(val - 2); // else calculating fib
-        memo.put(val, res); // Puting the calculated value to memo
+        memo.put(val, res); // Putting the calculated value to memo
 
         return res;
     }
