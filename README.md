@@ -15,4 +15,5 @@ https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Inte
   <li>Amstrong number</li>
   <li>Factorial</li>
   <li>String Reverse</li>
+  <li>Leap Year</li>
 </ol>
