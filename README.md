@@ -9,3 +9,10 @@ https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Inte
   <li>String Palindrome</li>
   <li>Integer Palindrome</li>
 </ol>
+
+## Day 2:
+<ol>
+  <li>Amstrong number</li>
+  <li>Factorial</li>
+  <li>String Reverse</li>
+</ol>
