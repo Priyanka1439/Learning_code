@@ -7,7 +7,7 @@ The interviewer may ask you to solve without using any library method, e.g. inde
 
 import java.util.*;
 
-public class Reverse {
+public class Palindrome {
     public static boolean reverse(String val) {
         StringBuilder sb = new StringBuilder(val);
         sb.reverse();
