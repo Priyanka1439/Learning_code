@@ -16,5 +16,5 @@ https://javarevisited.blogspot.com/2017/07/top-50-java-programs-from-coding-Inte
   <li>Factorial</li>
   <li>String Reverse</li>
   <li>Leap Year</li>
-  <li>Leetcode - 125. Valid Palindrome</li>
+  <li><b>Leetcode</b> - 125. Valid Palindrome</li>
 </ol>
